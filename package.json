@@ -1,0 +1,25 @@
+{
+  "name": "sofakingwhiskeyed",
+  "version": "1.0.0",
+  "description": "Whiskeys of Sofa Kings",
+  "main": "index.js",
+  "dependencies": {
+    "@firebase/firestore": "^1.9.1",
+    "@firebase/storage": "^0.3.22",
+    "firebase": "^7.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayYHan/sofakingwhiskeyed.git"
+  },
+  "author": "Ray Y Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayYHan/sofakingwhiskeyed/issues"
+  },
+  "homepage": "https://github.com/RayYHan/sofakingwhiskeyed#readme"
+}
